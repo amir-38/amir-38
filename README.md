@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amir-38.amir-38" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3001&pause=1000&color=7E61E7&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Amir+Sarukhanov" alt="Typing SVG" /></a>
-   
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=red&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amir+Sarukhanov!;" />
-</h1> -->
+
+ <h1 align=center>  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7E61E7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amir+Sarukhanov!;" />
+</h1>
 <h3 align="center">A passionate Front-end Developer from Azerbaijan </h3>
 
 <br/>
