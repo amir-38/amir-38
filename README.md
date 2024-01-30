@@ -41,20 +41,13 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<!--   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=amir-38&theme=react&border_radius=10" alt="streak stats"/> -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=amir-38&theme=vue-dark&card_width=700" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=amir-38&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <!--   <br/> -->
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-38&langs_count=5&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
