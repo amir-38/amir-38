@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+    
     👋 Hi there! I go by the name of Amir, a code maestro passionate about weaving digital experiences.
     👀 I’m captivated by the artistry behind crafting seamless web interfaces and bringing designs to life.
     🌱 Currently, I'm immersed in a world of learning, exploring new frameworks and technologies to sculpt immersive user journeys.
