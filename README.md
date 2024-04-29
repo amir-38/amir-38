@@ -1,8 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amir-38.amir-38" />
 
- <h1 align=center>  
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7E61E7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amir+Sarukhanov!;" />
-</h1>
+ 
 <h3 align="center">A passionate Front-end Developer from Azerbaijan </h3>
 
 <br/>
